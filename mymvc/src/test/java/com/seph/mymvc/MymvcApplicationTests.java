@@ -1,4 +1,4 @@
-package project.mymvc;
+package com.seph.mymvc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
